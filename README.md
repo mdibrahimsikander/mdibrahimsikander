@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdibrahimsikander
 - 👀 I’m interested in all programming languages
-- 🌱 I’m currently learning c,c++,python,Java
+- 🌱 I’m currently learning c,c++,python,Java,java script, react
 - 💞️ I’m looking to collaborate on any kind of project.
 - 📫 reach me on whatsapp 86977186115
 
